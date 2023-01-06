@@ -1,17 +1,16 @@
-
- .navbar{
+.navbar {
   font-size: 50px;
   background-color: transparent;
   margin-top: -23px;
   width: 50%;
   padding-right: 0px;
   padding-top: 0px;
-display: inline-block;
+  display: inline-block;
 }
-.navbar i{
-  margin-top:  50px; ;
+.navbar i {
+  margin-top: 50px;
 }
- .navber {
+.navber {
   font-size: 40px;
   background-color: transparent;
   margin-top: -35px;
@@ -22,15 +21,15 @@ display: inline-block;
   display: inline-block;
 }
 .first .bgimg {
-  background-image: url(/img/top-view-tabl.jpg);
+  background-image: url(../img/top-view-tabl.jpg);
   background-size: cover;
-    z-index: 2;
+  z-index: 2;
   width: 100%;
   background: linear-gradient(rgba(0, 0, 0, 0.4));
   height: 800px;
-   background-position: center;
+  background-position: center;
   background-repeat: no-repeat;
-   background-color: rgb(46, 1, 1);
+  background-color: rgb(46, 1, 1);
 }
 .first .bgimg h3 {
   text-align: center;
@@ -85,18 +84,18 @@ button {
   width: 60px;
   margin-top: 40px;
   height: 70px;
-  color:rgb(239, 168, 168);
+  color: rgb(239, 168, 168);
 }
 .second .image {
   width: 796px;
   text-align: center;
   margin: 60px 0;
-  border-radius:50% ;
+  border-radius: 50%;
   /* border: 1px solid black; */
   /* height: 100%; */
   display: inline-block;
 }
-.second{
+.second {
   background-color: rgb(250, 245, 245);
 }
 .second .image img {
